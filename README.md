@@ -1,6 +1,6 @@
 # Geo-Foodie
 
-[link to deployed website](https://phoebeireland.github.io/Geo-Foodie-first-attempt/) 
+[link to deployed website]() 
 
 ## A website that will allow a person to press a button and pull them to a page with a random recipe. 
 
