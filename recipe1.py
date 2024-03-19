@@ -4,10 +4,9 @@ import random
 def get_random_recipe(csv_file):
     with open(csv_file, newline='') as file:
         reader = csv.reader(file)
+        next(reader)  # Skip header 1
+        next(reader)  # Skip header 2
         recipes = list(reader)
-        # Exclude header if present
-        if recipes[0][0].lower() == 'recipe':
-            recipes = recipes[1:]
         # Choose a random recipe
         random_recipe = random.choice(recipes)
         return random_recipe[0]
