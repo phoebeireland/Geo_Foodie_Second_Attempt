@@ -11,6 +11,6 @@ def get_random_recipe(csv_file):
         return random_recipe[0]
 
 if __name__ == "__main__":
-    csv_file = "recipe.csv"  # Update with your CSV file name/path
+    csv_file = "recipe.csv"  
     random_recipe = get_random_recipe(csv_file)
     print("Random Recipe: ", random_recipe)
