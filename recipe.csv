@@ -1,17 +1,17 @@
-Recipe, Recipe Description, Vegetarian or Vegan,
-Spaghetti Carbonara, Pasta with a sauce of eggs/ cheese/ bacon/ and black pepper, Vegetarian
-Chicken Tikka Masala, Chicken Tikka Masala is a dish of chunks of roasted marinated chicken in a spiced curry sauce, Non-Vegetarian
-Chocolate Cake, Chocolate Cake is a cake flavored with melted chocolate/cocoa powder or both, Vegetarian
-Egg Salad, Egg Salad is a dish made primarily of chopped hard-boiled eggs and mayonnaise,Vegetarian
-Fried Rice, Fried Rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs/vegetables/ seafood/ or meat, Possibly
-Beef Wellington, Beef Wellington is a preparation of fillet steak coated with pâté and duxelles/ which is then wrapped in puff pastry and baked, No
-Paella, Paella is a Spanish rice dish originally from Valencia. Paella is usually garnished with vegetables/chicken and seafood, No
-Hamburger, Hamburger is a sandwich consisting of one or more cooked patties of ground meat/ usually beef/ placed inside a sliced bread roll or bun, No
-Lasagna, Lasagna is a dish made of stacked layers of thin flat pasta alternating with fillings such as ragù/ bechamel/ and cheese, Possibly
-Tacos, Tacos are a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling, Possibly
-Chicken Noodle Soup, Chicken Noodle Soup is a soup made from chicken/ vegetables/ and noodles, No
-Chicken Parmesan, Chicken Parmesan is a dish consisting of breaded chicken breast covered in tomato sauce and mozzarella/ parmesan cheese, No
-Creme Brulee, Creme Brulee is a dessert consisting of a rich custard base topped with a contrasting layer of hard caramel, Vegetarian
-Macarons, Macarons are sweet meringue-based confection made with egg white/ icing sugar/ granulated sugar/ almond powder/ and food coloring, Vegetarian
-Miso Soup, Miso Soup is a traditional Japanese soup consisting of a stock called dashi into which softened miso paste is mixed, Vegetarian
-Spaghetti Bolognese, Spaghetti Bolognese is a meat-based sauce in Italian cuisine/ typically made with ground beef/ tomatoes/ and spices, No
+Recipe, Recipe Description, Contintent, Country, Type of meal, Vegetarian or Vegan,
+Spaghetti Carbonara, Pasta with a sauce of eggs/ cheese/ bacon/ and black pepper,Europe, Italy, Main, Vegetarian
+Chicken Tikka Masala, Chicken Tikka Masala is a dish of chunks of roasted marinated chicken in a spiced curry sauce, Asia, India, Main, Non-Vegetarian
+Chocolate Cake, Chocolate Cake is a cake flavored with melted chocolate/cocoa powder or both, North America, USA, Dessert, Vegetarian
+Egg Salad, Egg Salad is a dish made primarily of chopped hard-boiled eggs and mayonnaise,Europe, Britain, Main, Vegetarian
+Fried Rice, Fried Rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs/vegetables/ seafood/ or meat, Asia, China, Main, Possibly
+Beef Wellington, Beef Wellington is a preparation of fillet steak coated with pâté and duxelles/ which is then wrapped in puff pastry and baked, Europe, Britain, Main, No
+Paella, Paella is a Spanish rice dish originally from Valencia. Paella is usually garnished with vegetables/chicken and seafood, Europe, Spain, Main, No
+Hamburger, Hamburger is a sandwich consisting of one or more cooked patties of ground meat/ usually beef/ placed inside a sliced bread roll or bun, North America, USA, Main, No
+Lasagna, Lasagna is a dish made of stacked layers of thin flat pasta alternating with fillings such as ragù/ bechamel/ and cheese, Europe, Italy, Main, Possibly
+Tacos, Tacos are a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling, North America, Mexico, Main, Possibly
+Chicken Noodle Soup, Chicken Noodle Soup is a soup made from chicken/ vegetables/ and noodles, North America, USA, Main, No
+Chicken Parmesan, Chicken Parmesan is a dish consisting of breaded chicken breast covered in tomato sauce and mozzarella/ parmesan cheese, Europe, Italy, Main, No
+Creme Brulee, Creme Brulee is a dessert consisting of a rich custard base topped with a contrasting layer of hard caramel, Europe, France, Dessert,Vegetarian
+Macarons, Macarons are sweet meringue-based confection made with egg white/ icing sugar/ granulated sugar/ almond powder/ and food coloring, Europe, France, Dessert, Vegetarian
+Miso Soup, Miso Soup is a traditional Japanese soup consisting of a stock called dashi into which softened miso paste is mixed, Asia, Japan, Side, Vegetarian
+Spaghetti Bolognese, Spaghetti Bolognese is a meat-based sauce in Italian cuisine/ typically made with ground beef/ tomatoes/ and spices, Europe, Italy, Main, No
