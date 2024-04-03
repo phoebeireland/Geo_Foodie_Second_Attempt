@@ -24,6 +24,7 @@ with open('recipe.csv', 'r') as file:
 
         # Display the randomly selected recipe
         print(f"Random Recipe from {continent.capitalize()}:")
+        print("Country:", random_recipe[3])
         print("Name:", recipe_name)
         print("Description:", recipe_description)
     else:
