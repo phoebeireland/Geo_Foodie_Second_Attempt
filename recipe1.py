@@ -14,6 +14,10 @@ with open('recipe.csv', 'r') as file:
     # Filter rows based on the selected continent
     filtered_rows = [row for row in reader if row[2].lower() == continent.lower()]
 
+    # Function to print text with underline
+    def print_underline(text):
+        print(f"\033[4m{text}\033[0m")
+
     if filtered_rows:
         # Randomly select a recipe from the filtered rows
         random_recipe = random.choice(filtered_rows)
@@ -23,8 +27,10 @@ with open('recipe.csv', 'r') as file:
         recipe_description = random_recipe[1]
 
         # Display the randomly selected recipe
-        print(f"Random Recipe from {continent.capitalize()}:")
+        print_underline(f"Random Recipe from {continent.capitalize()}")
         print("Country:", random_recipe[3])
+        print("Type of meal:", random_recipe[4])
+        print("Vegetation or Vegan:", random_recipe[5])
         print("Name:", recipe_name)
         print("Description:", recipe_description)
     else:
