@@ -21,11 +21,9 @@ with open('recipe.csv', 'r') as file:
         # Extract the first two parts of the randomly selected recipe
         recipe_name = random_recipe[0]
         recipe_description = random_recipe[1]
-        recipe_country = random_recipe[3]
 
         # Display the randomly selected recipe
         print(f"Random Recipe from {continent.capitalize()}:")
-        print("Country:", recipe_country)
         print("Name:", recipe_name)
         print("Description:", recipe_description)
     else:
