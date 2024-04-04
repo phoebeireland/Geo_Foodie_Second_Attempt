@@ -1,6 +1,9 @@
 import csv
 import random
 
+# Ask the user which meal type they want to pick from
+meal_type = input("Enter the meal type (starter, main, side or dessert) you want to pick from: ")
+
 # Ask the user which continent they want to pick from
 continent = input("Enter the continent you want to pick from: ")
 
