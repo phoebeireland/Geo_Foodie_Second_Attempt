@@ -77,11 +77,13 @@ with open('recipe.csv', 'r') as file:
         recipe_name = random_recipe[0]
         recipe_description = random_recipe[1]
         recipe_origin = random_recipe[3]
+        recipe_vegornot = random_recipe[5]
 
         # Display the randomly selected recipe
         print(f"Random {meal_type} Recipe from {continent.capitalize()}:")
         print("Country of Origin:", recipe_origin)
         print("Name:", recipe_name)
+        print("Veg/Non-Veg:", recipe_vegornot)
         print("Description:", recipe_description)
     else:
         print("No recipes found for the selected continent and meal type.")
